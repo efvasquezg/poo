@@ -8,6 +8,10 @@
 
 * Grupo 4
 
+:::bash
+#!/bin/bash
+ echo "Hola mundo"
+
 ...
 ## Pasos para sincronizar el repositorio local con el remoto
 
