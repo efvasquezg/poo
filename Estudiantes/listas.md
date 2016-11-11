@@ -13,7 +13,8 @@
 
 1. `git clone https://github.com/nombre_de_repo/` -> *clona un repositorio*
 
-2. :::bash git pull https://github.com/nombre_de_repo/ -> *actualiza el repo local*
+2. :::bash 
+git pull https://github.com/nombre_de_repo/ -> *actualiza el repo local*
 
 3. "git status" -> *para ver cambios pendientes*
 
