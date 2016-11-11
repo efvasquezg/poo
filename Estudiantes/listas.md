@@ -10,14 +10,14 @@
 
 ...
 
-git clone https://github.com/nombre_de_repo/ ; clona un repositorio
+git clone https://github.com/nombre_de_repo/ ; *clona un repositorio*
 
-git pull https://github.com/nombre_de_repo/ ; actualiza el repo local
+git pull https://github.com/nombre_de_repo/ ; *actualiza el repo local*
 
-git status ; para ver cambios pendientes
+git status ; *para ver cambios pendientes*
 
-git add . ; para que tenga en cuenta los cambios
+git add . ; *para que tenga en cuenta los cambios*
 
-victorhck@openSUSE:~/Git\> git commit -m "Creada carpeta de traducciones y añadida la española" -a ; para etiquetar los cambios
+git commit -m "Creada carpeta de traducciones y añadida la española" -a ; *para etiquetar los cambios*
 
-git push https://github.com/nombre_de_repo/ ; Actualiza en repositorio remoto con el local
+git push https://github.com/nombre_de_repo/ ; *Actualiza en repositorio remoto con el local*
