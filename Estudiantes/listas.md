@@ -11,7 +11,7 @@
 ...
 ## Pasos para sincronizar el repositorio local con el remoto
 
-1. "git clone https://github.com/nombre_de_repo/" -> *clona un repositorio*
+1. `git clone https://github.com/nombre_de_repo/` -> *clona un repositorio*
 
 2. "git pull https://github.com/nombre_de_repo/" -> *actualiza el repo local*
 
