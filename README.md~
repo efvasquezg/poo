@@ -17,3 +17,5 @@ Proyeto final de la materia poo 2016-II
 
 6. `git push https://github.com/nombre_de_repo/`  *Actualiza el repositorio remoto con el local*
 
+En el siguiente enlace encontraran una guía sencilla para manejar Git.
+<http://rogerdudler.github.io/git-guide/index.es.html>
