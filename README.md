@@ -1,7 +1,7 @@
 # POO
 Proyeto final de la materia poo 2016-II
 
-###Cada grupo debe crear un cuenta en esta plataforma, posteriormente crear un proyecto y agragarme como colaborador.
+### Cada grupo debe crear un cuenta en esta plataforma, posteriormente crear un proyecto y agragarme como colaborador.
 
 ## Pasos para sincronizar el repositorio local con el remoto
 
